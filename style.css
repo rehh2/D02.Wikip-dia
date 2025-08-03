@@ -1,0 +1,75 @@
+body{ 
+background-color: rgb(247, 246, 246);
+
+}
+
+.cabecalho{
+    position: relative;
+background-color: rgb(255, 255, 255);
+height: 80px;
+width: 100%;
+}
+
+.titulo{
+display: inline;
+position: absolute;
+width: 100px;
+left: 250px;
+}
+
+.barra{
+position: absolute;
+top: 20px;
+left: 680px;
+height: 35px;
+width: 600px;
+border-radius: 20px;
+background-color: rgb(255, 255, 255);
+ } 
+
+.botao{
+position: absolute;
+top: 22px ;
+left: 1500px ;
+background-color: rgb(233, 233, 233);
+padding: 9px;
+}
+
+.principal{
+position: absolute;
+padding: 15px 40px;
+background-color: rgb(255, 255, 255);
+width: 1200px ;
+height: 2125px;
+top: 110px;
+left: 350px;
+}
+
+.coluna {
+    position:fixed;
+    top: 90px;
+    left: 50px;
+    width: 200px;
+    height: 20%;
+    font-size: 17PX;
+    background-color: #efefef;
+    padding: 13px ;
+    overflow-y: auto;
+}
+
+.capa{
+    padding: 24px;
+    width: 260px;
+    height: 370px;
+}
+
+
+.texto1{
+text-align: start;
+position:absolute ;
+width: 910px;
+height: 490px;
+left: 355px;
+top: 230px;
+
+}
